@@ -2,7 +2,7 @@ package com.app;
 /**
  * Interface for the controller the logic might changes in diffrent implementation  
  * but this provide a unify way to implement the two systems.
- * @author Tuan Nguyen 
+ * @author Abhayjit Sodhi 
  *
  */
 import java.io.File;
