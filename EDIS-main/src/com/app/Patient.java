@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.Objects;
 /**
  * The patient data store by the controller 
- * @author Tuan Nguyen 
+ * @author Abhayjit Sodhi
  *
  */
 class Data{ 
