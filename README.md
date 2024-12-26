@@ -23,7 +23,7 @@ Follow these steps to set up the Emergency Department Information System (EDIS):
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AJDevCode/edis-java.git
+git clone https://github.com/AJDevCode/Emergency-Department-Information-System
 ```
 
 ## Usage
